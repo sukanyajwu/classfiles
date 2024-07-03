@@ -1,8 +1,3 @@
 # Class Files
-These are the sample files for the following Linux courses:
-
---triOS College Linux Administration
-
---Eastern College Linux Administration
-
---CompTIA Linux+ 2019 Train-the-Trainer webinar series
+These are the sample files for the Linux courses taught by Jason Eckert.
+They are modified to fit my operating system class.
